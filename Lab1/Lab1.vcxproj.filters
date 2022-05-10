@@ -39,9 +39,6 @@
     <ClCompile Include="obj_loader.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Audio.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="SkyBox.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -74,32 +71,11 @@
     <ClInclude Include="obj_loader.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Audio.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="SkyBox.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\res\fogShader.frag">
-      <Filter>Resource Files</Filter>
-    </None>
-    <None Include="..\res\fogShader.vert">
-      <Filter>Resource Files</Filter>
-    </None>
-    <None Include="..\res\shaderToon.frag">
-      <Filter>Resource Files</Filter>
-    </None>
-    <None Include="..\res\shaderToon.vert">
-      <Filter>Resource Files</Filter>
-    </None>
-    <None Include="..\res\shaderRim.frag">
-      <Filter>Resource Files</Filter>
-    </None>
-    <None Include="..\res\shaderRim.vert">
-      <Filter>Resource Files</Filter>
-    </None>
     <None Include="..\res\shaderGeoText.frag">
       <Filter>Resource Files</Filter>
     </None>
